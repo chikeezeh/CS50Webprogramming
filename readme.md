@@ -1,0 +1,1 @@
+This repo contains code for the Harvard University CS50 Web Programming class.
